@@ -1,2 +1,1 @@
-cd exampleSite && 
-hugo server --baseUrl=ai-color-pages.com --bind=0.0.0.0 
+cd exampleSite && hugo server --bind=0.0.0.0 
